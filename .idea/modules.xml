@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4.0Demo/4.0Demo.iml" filepath="$PROJECT_DIR$/4.0Demo/4.0Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppBarLayout(向上滚动隐藏指定的View)/AppBarLayout(向上滚动隐藏指定的View).iml" filepath="$PROJECT_DIR$/AppBarLayout(向上滚动隐藏指定的View)/AppBarLayout(向上滚动隐藏指定的View).iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppLayout/AppLayout.iml" filepath="$PROJECT_DIR$/AppLayout/AppLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseActivity/BaseActivity.iml" filepath="$PROJECT_DIR$/BaseActivity/BaseActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollapsingToolbarLayout/CollapsingToolbarLayout.iml" filepath="$PROJECT_DIR$/CollapsingToolbarLayout/CollapsingToolbarLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomNotification/CustomNotification.iml" filepath="$PROJECT_DIR$/CustomNotification/CustomNotification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisplayBitmaps/DisplayBitmaps.iml" filepath="$PROJECT_DIR$/DisplayBitmaps/DisplayBitmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentAniamtion/FragmentAniamtion.iml" filepath="$PROJECT_DIR$/FragmentAniamtion/FragmentAniamtion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpLib/OkHttpLib.iml" filepath="$PROJECT_DIR$/OkHttpLib/OkHttpLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttp封装n/OkHttp封装n.iml" filepath="$PROJECT_DIR$/OkHttp封装n/OkHttp封装n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectAS.iml" filepath="$PROJECT_DIR$/ProjectAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Realm数据库/Realm数据库.iml" filepath="$PROJECT_DIR$/Realm数据库/Realm数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Realm解析/Realm解析.iml" filepath="$PROJECT_DIR$/Realm解析/Realm解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView动画/RecyclerView动画.iml" filepath="$PROJECT_DIR$/RecyclerView动画/RecyclerView动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testfragment/Testfragment.iml" filepath="$PROJECT_DIR$/Testfragment/Testfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPager多个页面/ViewPager多个页面.iml" filepath="$PROJECT_DIR$/ViewPager多个页面/ViewPager多个页面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPager多个页面Lib/ViewPager多个页面Lib.iml" filepath="$PROJECT_DIR$/ViewPager多个页面Lib/ViewPager多个页面Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-pathview/android-pathview.iml" filepath="$PROJECT_DIR$/android-pathview/android-pathview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidPullToRefresh/androidPullToRefresh.iml" filepath="$PROJECT_DIR$/androidPullToRefresh/androidPullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportv7cardview/androidsupportv7cardview.iml" filepath="$PROJECT_DIR$/androidsupportv7cardview/androidsupportv7cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catloadinglibrary/catloadinglibrary.iml" filepath="$PROJECT_DIR$/catloadinglibrary/catloadinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crop/crop.iml" filepath="$PROJECT_DIR$/crop/crop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentanimations/fragmentanimations.iml" filepath="$PROJECT_DIR$/fragmentanimations/fragmentanimations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp封装/okhttp封装.iml" filepath="$PROJECT_DIR$/okhttp封装/okhttp封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoppoing/shoppoing.iml" filepath="$PROJECT_DIR$/shoppoing/shoppoing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/购物车效果/购物车效果.iml" filepath="$PROJECT_DIR$/购物车效果/购物车效果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/适配/适配.iml" filepath="$PROJECT_DIR$/适配/适配.iml" />
+      <module fileurl="file://$PROJECT_DIR$/页面切换动画/页面切换动画.iml" filepath="$PROJECT_DIR$/页面切换动画/页面切换动画.iml" />
+      <module fileurl="file://$PROJECT_DIR$/页面切换动画lib/页面切换动画lib.iml" filepath="$PROJECT_DIR$/页面切换动画lib/页面切换动画lib.iml" />
+    </modules>
+  </component>
+</project>

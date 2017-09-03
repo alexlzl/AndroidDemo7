@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/4.0Demo" />
+            <option value="$PROJECT_DIR$/AppBarLayout(向上滚动隐藏指定的View)" />
+            <option value="$PROJECT_DIR$/AppLayout" />
+            <option value="$PROJECT_DIR$/BaseActivity" />
+            <option value="$PROJECT_DIR$/CollapsingToolbarLayout" />
+            <option value="$PROJECT_DIR$/CustomNotification" />
+            <option value="$PROJECT_DIR$/DisplayBitmaps" />
+            <option value="$PROJECT_DIR$/FragmentAniamtion" />
+            <option value="$PROJECT_DIR$/OkHttpLib" />
+            <option value="$PROJECT_DIR$/OkHttp封装n" />
+            <option value="$PROJECT_DIR$/Realm数据库" />
+            <option value="$PROJECT_DIR$/Realm解析" />
+            <option value="$PROJECT_DIR$/RecyclerView动画" />
+            <option value="$PROJECT_DIR$/Testfragment" />
+            <option value="$PROJECT_DIR$/ViewPager多个页面" />
+            <option value="$PROJECT_DIR$/ViewPager多个页面Lib" />
+            <option value="$PROJECT_DIR$/android-pathview" />
+            <option value="$PROJECT_DIR$/androidPullToRefresh" />
+            <option value="$PROJECT_DIR$/androidsupportv7cardview" />
+            <option value="$PROJECT_DIR$/catloadinglibrary" />
+            <option value="$PROJECT_DIR$/crop" />
+            <option value="$PROJECT_DIR$/fragmentanimations" />
+            <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/okhttp封装" />
+            <option value="$PROJECT_DIR$/shoppoing" />
+            <option value="$PROJECT_DIR$/购物车效果" />
+            <option value="$PROJECT_DIR$/适配" />
+            <option value="$PROJECT_DIR$/页面切换动画" />
+            <option value="$PROJECT_DIR$/页面切换动画lib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
